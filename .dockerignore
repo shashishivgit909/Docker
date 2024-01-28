@@ -1,0 +1,4 @@
+node_modules
+
+# this  means excluse all files with extension ".txt" while building image in container 
+ *.txt   
